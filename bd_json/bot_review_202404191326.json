@@ -1,0 +1,24 @@
+{
+"bot_review": [
+	{
+		"id" : 2,
+		"chat_id" : 350685069,
+		"username" : "dashazhu",
+		"review_text" : " очень хороший тест )",
+		"published_data" : "2024-04-15T18:34:44.314Z"
+	},
+	{
+		"id" : 3,
+		"chat_id" : 350685069,
+		"username" : "dashazhu",
+		"review_text" : " cool nice good",
+		"published_data" : "2024-04-16T08:41:21.191Z"
+	},
+	{
+		"id" : 4,
+		"chat_id" : 1202378818,
+		"username" : "Olga_8096",
+		"review_text" : " привет все супер",
+		"published_data" : "2024-04-17T16:21:53.323Z"
+	}
+]}

@@ -1,0 +1,24 @@
+{
+"bot_user": [
+	{
+		"id" : 3,
+		"chat_id" : 966124018,
+		"username" : "angiethere",
+		"state" : 1,
+		"test_result_id" : 3
+	},
+	{
+		"id" : 9,
+		"chat_id" : 350685069,
+		"username" : "dashazhu",
+		"state" : 15,
+		"test_result_id" : 8
+	},
+	{
+		"id" : 8,
+		"chat_id" : 1202378818,
+		"username" : "Olga_8096",
+		"state" : 15,
+		"test_result_id" : 9
+	}
+]}
