@@ -139,7 +139,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-TOKEN = '7084705040:AAG_a2ToozMAxB_45dKDHnXVdBrhAvFbfNo'
+TOKEN = ''
 
 
 LOGGING = {
